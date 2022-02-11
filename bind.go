@@ -87,7 +87,7 @@
 //      flagbind.Bind(fs, &flags)
 //      fs.Parse([]string{"--auto-kebab-case"})
 //
-package flagbind
+package cobraflags
 
 import (
 	"encoding/json"

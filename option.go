@@ -1,4 +1,4 @@
-package flagbind
+package cobraflags
 
 func newBind(opts ...Option) bind {
 	var b bind

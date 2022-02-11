@@ -18,7 +18,7 @@
 // FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 // IN THE SOFTWARE.
 
-package flagbind_test
+package cobraflags_test
 
 import (
 	"fmt"
@@ -26,7 +26,6 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AdamSLevy/flagbind"
 	"github.com/spf13/pflag"
 )
 

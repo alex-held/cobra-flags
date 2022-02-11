@@ -1,4 +1,4 @@
-module github.com/AdamSLevy/flagbind
+module github.com/alex-held/cobra-flags
 
 go 1.14
 

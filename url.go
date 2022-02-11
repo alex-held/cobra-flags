@@ -1,4 +1,4 @@
-package flagbind
+package cobraflags
 
 import "net/url"
 
